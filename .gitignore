@@ -1,9 +1,44 @@
+
+Javascript-projects/
+Kevin cookie compan/
+NAME/
+async_and_sync/
+asynchronous programming/
+codekazi/
+css1/
+folder2/
+footer/
+game challenge/
+html dom/
+html001/
+html002/
+html003/
+htmlbasics/
+invitation/
+learning/
+media queries/
+objects/
+paradise/
+portfolio/
+practice/
+presentation/
+rockpaper scissors/
+scissors 2/
+shopper/
+table/
+tailwind2/
+tw_practice/
+
+*.swp
 node_modules/
 dist/
 *.log
 .env
-.DS_Store
-Javascript-projects/dom2/
-Kevin cookie company/
+.gitignore
 calendar-application-events-manager/
 challenge/
+app.jsx
+app.py
+index.css
+main.py
+script.js
