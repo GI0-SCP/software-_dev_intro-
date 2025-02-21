@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+Javascript-projects/dom2/
+Kevin cookie company/
+calendar-application-events-manager/
+challenge/
